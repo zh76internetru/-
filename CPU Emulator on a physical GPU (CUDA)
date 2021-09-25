@@ -1,0 +1,7 @@
+Hello everyone.
+I wondered: is it possible to create an emulator of a conventional central processor that will work using the processor and the memory of the video card, preferably using CUDA technology.
+For example, in the form of a virtual machine with a regular windows, in which you can use the usual command line (cmd) and so on?
+I'm not a programmer. But it would be interesting to use the power of the video card as a separate microcomputer )))
+You open the task manager, and there the whole screen is in the processors and everything works )))
+
+P.S. I don't know if I framed my question in the right section.
